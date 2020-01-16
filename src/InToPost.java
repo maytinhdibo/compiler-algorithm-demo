@@ -61,6 +61,6 @@ public class InToPost {
     }
 
     public static void main(String[] args) {
-        inTopost("57*(78-899)");
+        inTopost("54*54+45/8-2*8");
     }
 }
